@@ -1,1 +1,4 @@
+USE master
+GO
+
 SELECT * FROM SYS.OBJECTS 
